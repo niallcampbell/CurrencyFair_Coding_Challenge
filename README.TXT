@@ -13,3 +13,5 @@ The MessageFrontend class reads in each file and the MessageConsumer class conve
 
 A number of methods from the MessageProcessor class then analyse these objects and prints a number of results to the console.
 
+To run the code, run the main method in the MessageFrontend class. 
+
